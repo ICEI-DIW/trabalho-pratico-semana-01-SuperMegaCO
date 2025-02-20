@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Rafael Cortat De Oliveira
+Matricula:  855321
 
 ## Tela de inspeção com navegador
-
+![alt text](<Screenshot 2025-02-19 205532.png>)
 
 ## Tela de projeto no Replit
-
+![alt text](<Screenshot 2025-02-19 205809.png>)
